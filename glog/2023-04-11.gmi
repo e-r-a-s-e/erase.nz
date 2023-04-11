@@ -1,0 +1,27 @@
+# Glog #3
+## April 11th, 2023
+### 6:26am UTC
+
+Soooooo it's been a hot minute...
+
+I kinda got distracted with other things but also not and kinda got too lazy to make stuff on here, but here's the stuff I've been messing with!
+
+### Coding and shit
+I have a linux distribution!... ｋｉｎｄａ
+
+So I kinda decided between the time I was gone to work on making my own linux distribution because I thought it'd be fun to do! The short/long time line of it all will be posted in another part of my capsule that I'll link later[1], but basically it's branched off of Arch Linux and the whole thing is that it will be fixed release, with me compiling all the packages that I think would be neat on a linux distro and then releasing that to the public. It's called wormOS, with a release coming someday™️.
+
+I have made a github account[2]! Because of making a linux distro, I would like all the source files to be available and easily to the public. And while I think a custom git server for just this would be neat, I don't have a ton of money to spend on wormOS. (Currently paying about $4/mo for the package repo) You can follow my account, but also idk why you would as that's kinda odd in my opinion (Like I'm a video game publisher or something "oooh I can't wait to see erase's new software drop!")
+
+Also, while this isn't something I've done yet, I'm considering learning more in-depth coding, which would help towards wormOS, like making a small installer or post-install scripts. I have a neat idea of making a desktop environment too, but something simple to do... Maybe a metapackage that has a set of applications that get preconfigured to what I think would be nice... `:)`
+
+Also also I have removed the lid of the gaming laptop I have and now have a pretty sick ass keyboard desktop lmao. It's acting more like a mac mini though because I have it tucked away while I have an external keyboard and mouse for it. (I bought a mechanical keyboard two days ago and it's 𝓪𝓶𝓪𝔃𝓲𝓷𝓰)
+
+And that's all I've really been up to for the last month or so! It's not as much as I thought I had but it's still a good amount to have! Like working on a linux distribution is a very daunting task, and while I might've learned a ton more with LFS, I don't think I could do much after installing LFS. In fact, I think I learn more by the way I'm currently doing it, working backwards from how shit works.
+
+Anyways yeah bye have a good day!
+
+### Links
+=>/wormos   wormOS!
+=>https://github.com/e-r-a-s-e/ My GitHub account
+=>/duckseed/costco.gmi  "Random" thought
