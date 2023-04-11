@@ -1,0 +1,47 @@
+# Call of Duty Black Ops III unlockables
+
+## Guns
+
+### Submachine Guns
+
+- Vesper		(11/13)
+- VMP			(11/13)
+- Kuda			(10/13)
+- Pharo			(1/13)
+- Weevil		(1/13)
+
+### Assault Rifles
+
+- ICR-1			(MAX)
+- KN-44			(MAX)
+- M8A7			(2/14)
+- Sheiva		(7/14)
+- HVK-30		(3/14)
+- Man-O-War		(1/14)
+
+### Shotguns
+
+- KRM-262		(8/10)
+- Argus			(1/10)
+- 205 Brecci	(1/10)
+- Haymaker 12	(1/10)
+
+### Light Machine Guns
+
+- BRM			(11/13)
+- Dingo			(4/13)
+- 48 Dredge		(1/13)
+- Gorgon		(1/13)
+
+### Sniper Rifles
+ 
+- Locus			(8/9)
+- Drakon		(MAX)
+- SVG-100		(1/9)
+
+### Secondaries
+
+- Bowie Knife	(MAX)
+- RK5			(MAX)
+- L-CAR 9		(1/?)
+- XM-53			(1/?)

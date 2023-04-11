@@ -1,0 +1,20 @@
+# Hardware I own!
+
+This is all the hardware I currently owned, or used to own! It is divided into four categories... traditional computers, phones, gaming devices and other.
+
+## Traditional computers.
+
+*  Thinkpad x220 Tablet (~2016-~2018): So these first few computers I'm not fully sure on when I stopped using them, as I kinda flip flopped between the first three because they were dirt cheap laptops my dad had lying around and Iwas given access to them. This is the laptop I learned about Linux on (Ubuntu 16.04!!) and where I found a little bit of a facination with animation (it's fun to fuck around with, but I wouldn't do it as my job)
+* Thinkpad t420s (~2017-~2019): Haha funny weed number! While I said I flipped between three laptops while I had these, I probably used this one the most since it was the most powerful and could play Call of Duty: Black Ops II at an okay framerate lmao. I was learning how to program with this laptop and learned about wine on linux and virtual machines!
+* Dell Latitude e4210 (~2017-~2019): Idon't have much to say about this laptop. I think it's physically dying or something cause the laptop just shits itself sometimes even after replacing the ram and storage.
+* Raspberry Pi 400 (~2020-~2021): My first arm computer! I liked using it though it was slow at some times, was just super happy to be an early adopter to the arm desktop space!... and then Apple did shit in 2020.
+* 2020 m1 Mac Mini (~2021-now): The first mac I've ever bought. Was curious to see how powerful the computer was and I'm shocked. Only kinda sad I got the desktop as I prefer portability but it's getting reporposed as a server later this year so I'm not giving up on a computer that quickly lol
+* MSI GV15 Thin (Nov 2022-Summer 2023): It's a good machine, but I regret buying it cause it has Nvidia and the only linux distros that install are Debian-based. Also the battery life is like 2 hours... Also Windows sucks dog shit.
+
+## Phones
+
+* Coolpad Defiant (too-long): My first phone with cell service (I had some Alcatel phone that I can't remember what it was called but it ran Android 5 and was okay). This phone was the worst one at the store, was free when you opened a new line but buying it outright was $30. Told my dad there are other phones that are much higher quality for only $20 more but he said "it's either this or no phone" and honestly I should've told him no phone. This phone is the laggiest, most unresponsive piece of shit I'm prety sure dead people would reply to me faster than sending a text would on this thing. I hate it I hate it I hate it I hate it I-
+* iPhone SE (2020-2022): First iPhone I ever used, I don't like iPhone's all that much. They're neat and all but they aren't as good as the foldables I've seen... Those seem to be much more pocketable and useful, would be cool to get one-
+* Samsung Z Flip 4 (Oct 2022-now): THE FUCKER FOLDS!!!!!
+
+# Other categories WiP

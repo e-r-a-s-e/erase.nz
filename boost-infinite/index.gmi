@@ -1,0 +1,15 @@
+# Boost Infinite
+### March 14, 2023
+
+## Introduction
+Boost infinite is the newest consumer postpaid cellular network, owned by Dish Network. The network uses 3 networks, being T-Mobile, AT&T and Dish and switching between the three to get the best connection. The pricing for the current beta is $25/mo for life, which gives you the following:
+
+* Unlimited talk, text and data (data slows after 30gb)
+* 5gb hotspot
+* International talk and text
+* Roaming between Canada and Mexico
+
+At the time of writing, the network switching is not available and currently only uses AT&T's network, with no planned date for network switching.
+
+## News
+=>2023-03-14-hack.gmi	Timeline of Dish hack

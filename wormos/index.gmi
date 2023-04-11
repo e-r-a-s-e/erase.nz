@@ -1,0 +1,18 @@
+# wormOS
+wormOS is a Linux Distribution in development by me, erase. The name is based off of the "Squirmles" toy, commonly known as "Worm on a String"[1]. It's based off of Arch Linux, with plans to move to it's own package repository in the full release.
+
+## Why?
+Most Linux Distributions have a purpose for being made, might be for general purpose like all the big distros, or can also be good at specific tasks, like focusing on privacy (Tails, QubesOS), or maybe for a specific region (Ubuntu Kylin), or maybe even pentesting (Kali).
+
+...this one is just made because I'm bored as shit and would rather be on my computer than clean my room :p
+
+That's only partially true... I would also like to just make a Linux Distribution that uses Arch Linux's pacman package manager, with a fixed release cycle, that way there's less of a chance of things breaking!
+
+## The Plan
+The basic plan I have so far for wormOS is that for the time being all releases will be nothing other than Arch Linux with stuff pre-installed. This will change in the Beta, where I will test out transitioning to a wormOS repo, while still relying on the Arch repo for basic things like the Linux kernel. Release 1.0 will *ONLY* release once I have fully moved from Arch Linux's repositories. AUR won't be supported but if people end up using this weird thing I made then I might work on a way for others to contribute to official repos! That would take a lot more work and research than what I'm currently doing as I'm not too sure on how contributing/overseeing submissions of any kind, but it'll be a fun adventure in general :)
+
+## ISOs?
+As of April 5th, 2023, there are no ISOs available for wormOS.
+
+### Links
+=>https://en.wikipedia.org/wiki/Squirmles	[1] - {HTTPS} Squirmles Wikipedia Page.

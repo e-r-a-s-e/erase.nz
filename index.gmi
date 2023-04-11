@@ -1,0 +1,9 @@
+# Welcome to Erase's Hellhole
+
+Here you will find my own shit and links to people's other shit!
+
+=>boost-infinite/	Me rambling about the latest postpaid cell network, Boost Infinite
+=>glog/	Gemini Log, call that a glog
+=>wormos/	wormOS, a Linux Distribution I'm working on :)
+
+=>gemini://mozz.us/	Mozz

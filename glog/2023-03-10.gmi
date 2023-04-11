@@ -1,0 +1,21 @@
+# Glog #2
+## March 10th, 2023
+### 8:06am UTC
+
+The main thing I have on my mind right now is planning out how to setup my girlfriend and I's tech. We currently don't live together, but we are planning on it for later this year and one thing I wanna get done right is setting up a server and all our computer shit.
+
+So in order to say my plan you will need to know the hardware I currently own, which I have linked below[1]. Iwill be talking about said items.
+
+### Step One: Her And My Copmuters.
+I will be replacing her 2015 macbook pro with the gaming laptop I got recently, that being the MSI GV15 Thin. It's much more faster than her laptop (she talks about how slow it is and it's on like macOS Mojave I think!) and it also gives me an excuse to teach her a little bit about Linux lol!
+
+As for my computer, I am getting a Z Fold 3 soon (Thank you Anika The Aardvark![2]) and that will be my main computing device for everything. I have been using the Z Flip 4 for the past week or so and I do enjoy the setup I have going with it but I just need more screen and hopefully the Fold solves that. This means that all my software will have to be for Android right...? NO!!! That's what brings us to...
+
+### Step Two: Server Setup.
+The server! The only other computer I brought with me is the base model m1 mac mini, which has 8gb of ram and 512gb of storage! This will be a nextcloud host and a media server, but not running Plex or Jellyfin. I plan on having it served up like the old modded og xbox days where it ran off XBMC (though newer versions are called Kodi). I can buy a device that can hold a few desktop hard drives so I can install about 16TB of storage for a few hundread, but it'd be worth it since I won't be paying about $120 every year but instead about $500 now, and then pay another $120 every so often, not yearly.
+
+I'll update this glog with other tech I will have but that's all for in the mean time! Maybe once I do get an apartment I can have another post talking about what I actually ended up doing and comparing the two! ^^
+
+### Links
+=>/my-hardware.gmi	[1] - List of technology I own!
+=>https://twitter.com/FileAnAardvark	[2] - Anika The Aardvark's Twitter (HTTPS!!!!!!!!!!)
