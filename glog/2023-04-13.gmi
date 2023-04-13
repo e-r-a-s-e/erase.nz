@@ -1,0 +1,18 @@
+# Glog #4
+## April 13th, 2023
+### 2:23am UTC
+
+So I think I might not work on the linux distro... and this is kinda gonna be a ramble that's a bit sad :/
+
+I don't know if anyone else experiences this, but I always want to do something computer-related, and I'll pick up some hobby dealing with computers, fixate on that for a couple weeks, then burn myself out when I feel like the project in question is too daunting. I keep doing that with a few things...
+
+Coding, choosing between the mac mini I have or the laptop, choosing what console I should play on. I keep getting super indecisive about it and I feel like I'm stuck in a circle of doing the same thing over from scratch instead of dealing with what I have currently and fixing it when there's a problem. I really need to work on that.
+
+So here's the plan, I'm going to keep using what I'm currently using as of this post's date. Here's a little list of what that means:
+
+- I use my Mac as my computer of choice
+- I use my 3DS for gaming
+- I won't be erasing any computer i have until I backup the data on it
+- Making a Linux Distribution is done, and I should look into a different hobby and start off slow.
+
+I think that hobby might be making videos, while that is a hobby I jump on and off sometimes, I do enjoy the whole process whereas I don't like some of the things that you have to do with coding. Does that mean I won't be coding anymore? Fuck no lol, I still like making little bash scripts and stuff like that
