@@ -1,0 +1,22 @@
+# Glog #5
+## April 15th, 2023
+### 8:30pm UTC
+
+This post is mainly talk about computers I have! Like I said in the last post, I am trying to stick to specific things as I feel like I'm very stagnent when it comes to doing any hobby due to flipping back and forth between devices, so I think if I start talking about the things I use I'll keep using them for longer. Sound stupid when said out loud, but the mind is a bitch and I don't like it.
+
+The main computer I have to do anything on is my Mac Mini, released in 2020. This is the first computer Apple made that uses their own arm-based chips! No more do we have to live with x64 and their power consumtion! No more do I have to worry about how hot my computer is getting! It's a mid-range, with 8gb of ram and 512gb of storage, I kinda wish I went and bought the 16gb model, but for some reason the computer runs amazingly with only 8gb! I guess it might have something to deal with how arm is but either way it's nice that I got it for about $400 for the amount of performance it has!
+
+Another thing I also regret not getting when buying it is a bigger storage upgrade... 512gb past the year 2020 is unusable hoenstly, but I found a solution to this stupid problem, and that's this little dock thingy![1] You hook it up to one of the thunderbolt 3 ports, and it has a few more usb type A ports, and a slot for a sata drive! I bought a 1tb ssd and it's been running perfectly fine!
+
+What do I plan on doing with this mac? Well clearly just downloading a bunch of files for my little archive isn't pushing it to it's limits, so what might?
+
+***VIDEO EDITING >:D***
+
+Yes, I still plan on doing some video editing. I have an idea for a video about the history of Nintendo and their consoles getting hacked, but that's all it is right now... an idea. I really need to work on getting past these stupid "ideas" and actually get to the next part, that being research.
+
+Oooh actually while typing out that last paragraph I just thought of something even better, ARM! Just a video talking about the history of ARM and maybe even about where it may go in the future.
+
+Anyways, I hope y'all enjoy y'all's Saturday, as I'm about to head to work in a couple hours :/
+
+### Links
+=>https://www.amazon.com/dp/B08RYHTWKT  [1] (HTTPS!!!) Mac Mini Dock on Amazon ($75)
