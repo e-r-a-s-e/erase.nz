@@ -1,0 +1,15 @@
+# Glog #7
+## April 24th, 2023
+### 10:13pm UTC
+
+I've been thinking lately about how I wanna setup things when I inevitabley move out. I don't know if I mentioned the timeframe I was planning on moving out, but it was supposed to be around this time, but some things have come up and it turns out I'll be here for a bit longer, hopefully by the end of the summer I'll be moving out but that's a best case scenario. The good news though is that I'm only waiting to get enough money to leave, which means I'm basically buying nothing unless I absolutely have to pay for it, like my phone bill and the monthly cost of this server. So that means I'll be mainly in my room either playing video games or imagining how neat things would be if I wasn't lazy and actually did said things I think about!
+
+Speaking about being lazy to do anything, I'm kinda in a server building mood, but because I am a few months away from leaving my current place of living it would be a bit pointless to setup a server, so let's conecptualize what my server setup could be! :D
+
+## The server
+
+I'm thinking I could have a neat desk seutp, where I have two m1 Mac Minis, one for my desktop use running macOS, and the other one would run Asahi Linux and would run this gemini server, local media server, and any other thing I need to use Linux for! I wouldn't even have to have a seperate keyabord and mouse for the linux mac! (recently found out about something called KVM so I might try and set that up too!)
+
+I'm honestly kinda tempted to buy another Mac Mini just so I can try it all out and then re-setup the server when I move out (With all the shit I'm trying to bring I still need to figure out how to move it all without a moving truck oof)
+
+I'll update this post later today or tomorrow on other details about the server, if I will buy it, etc...

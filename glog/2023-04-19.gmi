@@ -1,0 +1,14 @@
+# Glog #6
+## April 19th, 2023
+### 10:10pm UTC
+
+Hey everyone! I really just wanted to share this thing I recently did, where I shell swapped my Nintendo Switch. Here are the pics!
+
+=>/glog/img/2023-04-19/back.jpeg    Back of the switch
+=>/glog/img/2023-04-19/joycon-front.jpeg    Front of the Joycon
+=>/glog/img/2023-04-19/joycon-back.jpeg Back of the Joycon
+
+Hoenstly replacing the joycons was a lot easier than I expected. I think people overexaggerate with how hard it is to reshell, just takes a long while cause it's a bunch of small things. I'm pretty sure if I did a side job of customizing joycons I could probably do it in like half a hour. (I wonder if there's a market for that actually...)
+
+### Links
+=>/duckseed/oven.gmi
