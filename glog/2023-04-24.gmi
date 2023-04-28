@@ -13,3 +13,16 @@ I'm thinking I could have a neat desk seutp, where I have two m1 Mac Minis, one 
 I'm honestly kinda tempted to buy another Mac Mini just so I can try it all out and then re-setup the server when I move out (With all the shit I'm trying to bring I still need to figure out how to move it all without a moving truck oof)
 
 I'll update this post later today or tomorrow on other details about the server, if I will buy it, etc...
+
+# Added (April 28, 2023)
+I got a bit busy with work yesterday but I'm back!
+
+So I think I'll first start off with the computer I will use as a server. I have concluded that I will be using the Raspberry Pi 400 that I bought about a year or two ago. It can run things on a basic level, file transfer is as slow as molassas but I don't plan on using the server for file transfer at first. My initial plan for setting up the server will be as a gemini and file server.
+
+Gemini makes sense and would be super easy to setup, as I will be using the same server software I use (agate). I think since I'll be moving it over from one server to another I will be able to also set it up even better as I know now that this is a long-term project I'll be doing.
+
+As for the file server... I don't really know where to start. I think I'll setup something barebones as I don't plan on accessing the files outside of my home. Also the storage will be 512gb of flash storage, as I don't want to buy hard drives now and then have those drives die when I move out. I currently have a portable 4tb hard drive, but that holds stuff that I can easily get back. That way in the case of the drive dying I'm not losing sensitive data.
+
+Because I'll be having both a file server and gemini server on the same system, I could theoretically have a public facing archive as well! I don't think I'll have it like that immediately, or if I'll even do that. Maybe I'll setup two different archives, one with public facing stuff that I can show and the second one holding everything for my own use.
+
+Anyways that's all I wanna talk about now, later!
