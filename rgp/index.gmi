@@ -1,0 +1,19 @@
+# Retro Game Pass
+### What is Retro Game Pass (RGP)
+RGP is a set of bash scripts that allow you to install and play games for the NES.
+
+### Install requirements
+* `bash` -- It's all bash scripts lmao
+* `dialog` -- Needed for the menu
+* `wget` -- File downloader
+* `fcuex` -- NES Emulator
+
+```
+macOS:
+    brew install wget dialog fcuex
+```
+
+One of the other things you'll need that's not included is a properly configured `sources.rgp` file. This file *NEEDS* to be configured before you can play any games. The page link below shows how servers should set up their roms for it to work with rgp. (Or you can change all the links with your file names but there's like over 300 games to rename so have fun with that.) To make sharing the software legal I can't supply the domains. You are going to have to ask someone.
+
+# Downloads
+rgp only works on macOS and Linux, with the "full" bundle having the emulator supplied in case it's not available in your distro's repository.
